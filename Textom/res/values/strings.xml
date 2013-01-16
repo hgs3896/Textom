@@ -1,0 +1,15 @@
+<resources>
+
+    <string name="app_name">Textom</string>
+    <string name="title_item_detail">Read Book</string>
+    <string name="title_item_list">BDJA Library</string>
+    <string name="add_book_activity">Add Book</string>
+    <string name="unkwown">Unknown</string>
+    <string name="download_success">Download Complete</string>
+    <string name="download_fail">Fail to download</string>
+    <string name="fail_loading_booklist">Unable to take book list.</string>
+    <string name="book_name">Book Name</string>
+    <string name="book_author">Author</string>
+    <string name="book_content">Content</string>
+	<string name="write_here_hint">Write Here...</string>
+</resources>

@@ -1,0 +1,19 @@
+<resources>
+
+    <string name="app_name">분당중앙도서</string>
+    <string name="title_item_detail">도서 읽기</string>
+    <string name="title_item_list">분당중앙도서</string>
+    <string name="add_book_activity">책 만들기</string>
+    
+    <string name="unkwown">알수없음</string>
+    <string name="download_success">다운로드 성공</string>
+    <string name="download_fail">다운로드 실패</string>
+    
+    <string name="fail_loading_booklist">책 목록을 읽어올수 없습니다.</string>
+    
+    <string name="book_name">도서명</string>
+    <string name="book_author">저자</string>
+    <string name="book_content">내용</string>
+    <string name="write_here_hint">여기다가 입력하세요</string>
+
+</resources>
